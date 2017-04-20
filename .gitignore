@@ -30,3 +30,10 @@
 *.suo
 *.db
 gitdemo_win.VC.VC.opendb
+*.ilk
+Debug/gitdemo_win.pdb
+*.log
+gitdemo_win/Debug/gitdemo_win.tlog/CL.command.1.tlog
+*.tlog
+gitdemo_win/Debug/vc140.idb
+*.pdb
